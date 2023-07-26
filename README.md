@@ -10,5 +10,5 @@
 ## 개발환경
 
 - STS : STS4
-- JAVA- JAVA
+- JAVA
 - 하이
